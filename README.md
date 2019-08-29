@@ -7,4 +7,5 @@
 
 　　其本乱，而末治者否矣。其所厚者薄，而其所薄者厚，未之有也。此谓知本，此谓知之至也。
 ## 文章
-   * [西方哲学概览](<index.md>)
+   * [西方哲学概览](<philosophy.md>)
+   * [心理学通史](<general-history-of-psychology.md>)
